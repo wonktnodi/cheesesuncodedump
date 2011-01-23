@@ -1,0 +1,3 @@
+2011/01/22
+
+This program does not work.  When built with 'make main' the linker will spit out an error saying that atexit is not defined.
